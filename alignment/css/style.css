@@ -2,6 +2,7 @@ body {
     text-align: center;
     line-height: 1.5;
     font-size: 100%;
+    background-color: rgb(5, 110, 40);
 }
 
 header,
@@ -31,6 +32,10 @@ legend {
     font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
+a {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+
 input {
     padding: 5px;
 }
@@ -41,8 +46,13 @@ button {
     cursor: pointer;
 }
 
-label{
+label {
     font-family: 'Inter', sans-serif;
+}
+
+fieldset {
+    background: #fff;
+    position: relative;
 }
 
 /* ************** footer *************** */
