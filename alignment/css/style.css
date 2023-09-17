@@ -40,6 +40,11 @@ button {
     cursor: pointer;
 }
 
+label,
+legend {
+    font-family: 'Inter', sans-serif;
+}
+
 /* ************** footer *************** */
 footer li {
     display: inline;
