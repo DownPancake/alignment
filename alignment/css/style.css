@@ -53,6 +53,7 @@ label {
 fieldset {
     background: #fff;
     position: relative;
+    text-align: center;
 }
 
 /* ************** footer *************** */
