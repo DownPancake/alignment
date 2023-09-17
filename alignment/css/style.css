@@ -25,6 +25,7 @@ h2 {
 /* *********** form ************ */
 form {
     margin: 48px;
+    background: #fff;
 }
 
 legend {
@@ -51,9 +52,18 @@ label {
 }
 
 fieldset {
-    background: #fff;
-    position: relative;
+    display: flex;
+    align-items: center;
     text-align: center;
+    justify-content: center;
+    width: 300px;
+}
+
+label,
+input,
+a,
+button {
+    margin: 5px;
 }
 
 /* ************** footer *************** */
