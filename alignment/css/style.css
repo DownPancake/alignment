@@ -28,6 +28,7 @@ form {
 
 legend {
     font-size: 24px;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 input {
@@ -40,8 +41,7 @@ button {
     cursor: pointer;
 }
 
-label,
-legend {
+label{
     font-family: 'Inter', sans-serif;
 }
 
