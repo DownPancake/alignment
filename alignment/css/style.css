@@ -13,10 +13,12 @@ section {
 h1 {
     font-size: 48px;
     margin: 24px 0;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 h2 {
     font-size: 32px;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
 }
 
 /* *********** form ************ */
