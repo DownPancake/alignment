@@ -75,3 +75,8 @@ button {
 footer li {
     display: inline;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+}
